@@ -1,0 +1,4 @@
+
+PS C:\USERS\locom.DESKTOP-6TJGEEM\minha-primeira_pagina_2026> git add
+PS C:\Users \locom.DESKTOP-6TJGEEN\minha_primeira_pagina_2026> git commit -m "teste de conexão"
+
